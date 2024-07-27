@@ -15,7 +15,7 @@ Add `funclock_fs` to your `Cargo.toml` file:
 
 ```toml
 [dependencies]
-funclock_fs = "0.1"  # Replace with the latest version
+funclock_fs = "0.1.1"  # Replace with the latest version
 ```
 
 ## Usage
