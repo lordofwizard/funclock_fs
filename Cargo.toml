@@ -1,6 +1,9 @@
 [package]
 name = "funclock_fs"
+author = "lordofwizard"
 version = "0.1.0"
 edition = "2021"
+description = "A simple file system locker to block functions and set session based logic."
+license = "MIT"
 
 [dependencies]
